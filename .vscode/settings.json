@@ -1,3 +1,23 @@
 {
     "DockerRun.DisableDockerrc": true
 }
+{
+    "css.validate": false,
+    "liveServer.settings.port": 5501,
+    "tailwindCSS.emmetCompletions": true,
+    "tailwindCSS.includeLanguages": {
+      "plaintext": "html",
+      "javascript":"javascript"  
+    },
+}
+"editor.quickSuggestions": {
+    "strings": true
+ },
+ "css.validate": false,
+ "editor.inlineSuggest.enabled": true
+ "tailwindCSS.classAttributes": [
+    "class",
+    "className",
+    "ngClass"
+]
+ 
